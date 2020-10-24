@@ -10,5 +10,6 @@ prerequisities:
 - numpy
 - matplotlib
 - scipy
+- cv2
 
 Link for my master's thesis in czech language: https://www.vutbr.cz/www_base/zav_prace_soubor_verejne.php?file_id=213629
