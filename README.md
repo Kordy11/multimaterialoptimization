@@ -13,3 +13,7 @@ prerequisities:
 - cv2
 
 Link for my master's thesis in czech language: https://www.vutbr.cz/www_base/zav_prace_soubor_verejne.php?file_id=213629
+
+Feel free to use the code and don't hesitate to ask or give me feedback. 
+
+mail adress: tomaskordula11@gmail.com
